@@ -3,8 +3,8 @@
 
 Project submitted by 
 
-Kate Chumbarova
-Srinivas Jakka
+Kate Chumbarova,
+Srinivas Jakka,
 Rui Li
 
 Files:
