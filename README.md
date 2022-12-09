@@ -7,6 +7,8 @@ Kate Chumbarova,
 Srinivas Jakka,
 Rui Li
 
+Final writeups: https://docs.google.com/document/d/1Y_hvxXV9qcOg5qFkMuKq2m3UTCkzVcMNWybkaOcDv_o/edit#
+
 Files:
 
 281_Final_Project_Kate_Srini_Rui.docx: Word document for the project
